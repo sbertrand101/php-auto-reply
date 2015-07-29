@@ -1,6 +1,6 @@
-## Bandwidth Call Forwarding Sample PHP
+## Bandwidth SMS Auto-Reply Sample PHP
 
-Basic start PHP app for doing call forwarding
+Basic starter PHP app for an SMS Auto-Reply
 
 ## Prerequisites
 
@@ -11,13 +11,13 @@ Basic start PHP app for doing call forwarding
 ## Getting Started & Installing on Heroku
 
 ```
-$ git clone https://github.com/BandwidthExamples/php-call-forwarding.git
-$ cd php-call-forwarding
+$ git clone https://github.com/BandwidthExamples/php-auto-reply.git
+$ cd php-auto-reply
 $ heroku create
 $ git push heroku master
 ```
 
 ## Setting up your Bandwidth account
 
-You can read the [how-to guide](http://ap.bandwidth.com/docs/how-to-guides/call-forwarding/) on call forwarding.  Replace your Call URL with http://yourherokuapp.herokuapp.com/forward.php?PhoneNumber=555-555-5555 (the number you want to forward to)
+You can read the [how-to guide](http://ap.bandwidth.com/docs/how-to-guides/sms-auto-reply/) on simple SMS Auto-Reply.  Replace your Message URL with https://your-app-here.herokuapp.com/auto-reply.php (or your own heroku instance)
 
