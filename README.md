@@ -1,6 +1,13 @@
-## Bandwidth SMS Auto-Reply Sample PHP
+<div align="center">
+
+# Bandwidth SMS Auto-Reply Sample PHP
+
+<a href="http://dev.bandwidth.com"><img src="https://s3.amazonaws.com/bwdemos/BW-VMP.png"/></a>
+</div>
 
 Basic starter PHP app for an SMS Auto-Reply
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
 
 ## Prerequisites
 
