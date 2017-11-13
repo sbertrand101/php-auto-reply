@@ -2,7 +2,7 @@
 
 # Bandwidth SMS Auto-Reply Sample PHP
 
-<a href="http://dev.bandwidth.com"><img src="https://s3.amazonaws.com/bwdemos/BW-VMP.png"/></a>
+<a href="http://dev.bandwidth.com"><img src="https://s3.amazonaws.com/bwdemos/BW_Messaging.png"/></a>
 </div>
 
 Basic starter PHP app for an SMS Auto-Reply
